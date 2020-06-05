@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LocadoraVeiculos.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DBCnstrDes" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=.;Initial Catalog=DBLocVeic;Trusted_Connection=True;</Value>
+    </Setting>
+    <Setting Name="Ambiente" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">desenvolvimento</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
